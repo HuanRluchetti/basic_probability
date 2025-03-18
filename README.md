@@ -1,1 +1,2 @@
-Exercise from probability lessons
+Exercises
+from probability lessons
